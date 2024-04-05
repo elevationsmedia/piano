@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Which composer, despite losing his hearing, created some of the most iconic masterpieces in music history?",
+    "right-answer": "Beethoven",
+    "wrong-answer-1": "Mozart",
+    "wrong-answer-2": "Chopin",
+    "wrong-answer-3": "Bach",
+    "explanation": "Ludwig van Beethoven's gradual hearing loss didn't stop him from composing legendary works like the 'Moonlight Sonata' and Symphony No. 9."
+  },
+  {
+    "question": "This Russian composer incorporated folk tunes and bold rhythms into his ballets, including 'The Firebird' and 'The Rite of Spring'. Who is he?",
+    "right-answer": "Stravinsky",
+    "wrong-answer-1": "Tchaikovsky",
+    "wrong-answer-2": "Rimsky-Korsakov",
+    "wrong-answer-3": "Prokofiev",
+    "explanation": "Igor Stravinsky's revolutionary ballets caused a riot at their premiere, but these pieces are now considered masterpieces."
+  },
+  {
+    "question": "Known as the 'Waltz King', this Austrian composer popularized a dance craze with pieces like 'The Blue Danube'. Who is he? ",
+    "right-answer": "Johann Strauss II",
+    "wrong-answer-1": "Franz Schubert",
+    "wrong-answer-2": "Johannes Brahms",
+    "wrong-answer-3": "Gustav Mahler",
+    "explanation": "Johann Strauss II composed hundreds of waltzes, polkas, and marches that embody a light-hearted and optimistic spirit."
+  },
+  {
+    "question": "Known for his operas like 'The Barber of Seville' and 'William Tell', this composer was also famous for his love of cuisine.",
+    "right-answer": "Rossini",
+    "wrong-answer-1": "Verdi",
+    "wrong-answer-2": "Donizetti",
+    "wrong-answer-3": "Puccini",
+    "explanation": "Gioachino Rossini was a prolific opera composer, but also famous as a gourmet; dishes like 'Tournedos Rossini' are named after him."
+  },
+  {
+    "question": "This composer of the Baroque period wrote the famous 'Brandenburg Concertos'.",
+    "right-answer": "Bach",
+    "wrong-answer-1": "Handel",
+    "wrong-answer-2": "Vivaldi",
+    "wrong-answer-3": "Telemann",
+    "explanation": "Johann Sebastian Bach's 'Brandenburg Concertos' are considered pinnacles of Baroque musical form."
+  },
+  {
+    "question": "This 'child prodigy' composer was a contemporary of Beethoven and a master of the piano sonata.",
+    "right-answer": "Schubert",
+    "wrong-answer-1": "Haydn",
+    "wrong-answer-2": "Mozart",
+    "wrong-answer-3": "Hummel",
+    "explanation": "Franz Schubert, though dying young, left a vast legacy of beautiful songs and piano works."
+  },
+  {
+    "question": "Famous for the opera 'The Ring of the Nibelung', this German composer aimed to create a 'total work of art'.",
+    "right-answer": "Wagner",
+    "wrong-answer-1": "Mahler",
+    "wrong-answer-2": "Brahms",
+    "wrong-answer-3": "Bruckner",
+    "explanation": "Richard Wagner's large-scale operas revolutionized music with their ambition and drama."
+  },
+  {
+    "question": "This Polish composer was known as the 'poet of the piano' and his works are associated with heartfelt melodies and delicate emotions.",
+    "right-answer": "Chopin",
+    "wrong-answer-1": "Schumann",
+    "wrong-answer-2": "Liszt",
+    "wrong-answer-3": "Mendelssohn",
+    "explanation": "Frédéric Chopin’s nocturnes, preludes, and mazurkas epitomize Romantic-era piano music. "
+  },
+  {
+    "question": "This composer wrote over 600 lieder (art songs) and is known for song cycles such as 'Winterreise'.",
+    "right-answer": "Schubert",
+    "wrong-answer-1": "Schumann",
+    "wrong-answer-2": "Wolf",
+    "wrong-answer-3": "Brahms",
+    "explanation": "Franz Schubert is considered one of the greatest masters of the German lied (art song)."
+  },
+  {
+    "question": "This prolific composer is said to have written over 100 symphonies and his nicknames include the 'Father of the Symphony'.",
+    "right-answer": "Haydn",
+    "wrong-answer-1": "Mozart",
+    "wrong-answer-2": "Beethoven",
+    "wrong-answer-3": "Bruckner",
+    "explanation": "Joseph Haydn had a major influence on the development of the classical symphony form."
+  },
+  {
+    "question": "This Frenchman's works like 'Carnival of the Animals' demonstrate a playful, witty, and often whimsical musical style.",
+    "right-answer": "Saint-Saëns",
+    "wrong-answer-1": "Debussy",
+    "wrong-answer-2": "Ravel",
+    "wrong-answer-3": "Bizet",
+    "explanation": "Camille Saint-Saëns was a versatile composer whose work often includes a dose of humor." 
+  },
+  {
+    "question": "This Hungarian composer was both a virtuoso pianist and a pioneer of the 'symphonic poem', a type of orchestral music that portrays a story or idea.",
+    "right-answer": "Liszt",
+    "wrong-answer-1": "Paganini",
+    "wrong-answer-2": "Chopin",
+    "wrong-answer-3": "Berlioz",
+    "explanation": "Franz Liszt expanded piano techniques and developed a new musical form, the symphonic poem."
+  }, 
+  {
+    "question": "This Italian composer created iconic operas like 'La Traviata' and 'Aida', filled with memorable melodies and dramatic flair.",
+    "right-answer": "Verdi",
+    "wrong-answer-1": "Puccini", 
+    "wrong-answer-2": "Bellini",
+    "wrong-answer-3": "Donizetti",
+    "explanation": "Giuseppe Verdi's operas are staples of the operatic repertoire worldwide."
+  }
+]
