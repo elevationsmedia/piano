@@ -1,0 +1,23 @@
+[
+   {
+       "audio-url": "https://ucarecdn.com/2f5cb09e-93e7-4ccc-8b6f-759cbe28d857/Johann_Pachelbel_Canon_and_Gigue_in_D_major_Pt_37_sample2.mp3",
+       "correct-answer": "Canon in D - Pachelbel",
+       "wrong-answer-1": "Symphony No. 9 Choral - Beethoven",
+       "wrong-answer-2": "Symphony No. 104 - Haydn",
+       "explanation": "This recognizable piece is Canon in D by Johann Pachelbel."
+   },
+   { 
+       "audio-url": "https://ucarecdn.com/55eb3bb9-3da1-4227-ac88-b3059cbf3044/Joseph_Haydn_Symphony_No_104_sample3.mp3",
+       "correct-answer": "Symphony No. 104 - Haydn",
+       "wrong-answer-1":  "Canon in D - Pachelbel",
+       "wrong-answer-2": "Symphony No. 9 Choral - Beethoven",
+       "explanation": "This is a piece from Joseph Haydn's Symphony No. 104."
+   },
+   { 
+       "audio-url": "https://ucarecdn.com/d06e7375-a7ef-4e3b-a2a5-a2f01a81863e/Ludwig_v_Beethoven_Symphony_No_9_in_D_minor_Op_125_Choral_sample7.mp3",
+       "correct-answer": "Symphony No. 9 Choral - Beethoven",
+       "wrong-answer-1": "Symphony No. 104 - Haydn",
+       "wrong-answer-2": "Canon in D - Pachelbel",
+       "explanation": "This is a familiar excerpt from Beethoven's iconic Symphony No. 9 (Choral)."
+   }
+]
